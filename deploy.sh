@@ -10,4 +10,4 @@ sudo chmod +x /usr/local/bin/docker-compose
 sudo ln -s /usr/local/bin/docker-compose /usr/bin/docker-compose
 git clone https://github.com/Hemayuva/wordpress.git
 cd wordpress/
-docker-compose up -d
+docker-compose up -d
